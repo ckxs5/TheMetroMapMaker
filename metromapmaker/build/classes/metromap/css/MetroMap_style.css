@@ -1,0 +1,50 @@
+.color-picker {
+    -fx-padding: 2px;
+}
+
+.edit_toolbar_row {
+    -fx-padding: 10px;
+    -fx-spacing: 5;
+    -fx-background-color: #ddddff;
+    -fx-background-radius: 5.0;
+    -fx-padding: 10;
+    -fx-border-width: 2px;
+    -fx-border-color: #7777dd;
+}
+
+.color_button{
+    -fx-background-color: yellow;
+    -fx-border: none;
+    -fx-padding: 10px;
+    -fx-background-radius: 100 100 100 100;
+    -fx-font-size: 1; 
+    -fx-display: circle;
+}
+
+.color_chooser_pane {
+    -fx-background-color:seashell;
+    -fx-padding: 0px;
+}
+
+.color_chooser_control {
+    -fx-font-weight:bold;
+    -fx-font-size:20;     
+}
+
+.bordered_pane {
+    -fx-background-color: #aaaaff;
+    -fx-background-radius: 5.0;
+    -fx-padding: 15;
+    -fx-spacing: 10;
+    -fx-border-width: 2px;
+    -fx-border-color: #7777dd;
+}
+
+.grid{
+    -fx-background-color: #aaaaff,
+        linear-gradient(from 0.5px 0px to 10.5px 0px, repeat, black 5%, transparent 5%),
+        linear-gradient(from 0px 0.5px to 0px 10.5px, repeat, black 5%, transparent 5%);
+
+}
+
+/*#D3D3D333*/

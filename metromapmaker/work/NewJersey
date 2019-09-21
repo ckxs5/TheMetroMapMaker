@@ -1,0 +1,176 @@
+
+{
+    "lines":[
+        {
+            "start_name":{
+                "name":"Red Line",
+                "x":100.0,
+                "y":450.0
+            },
+            "end_name":{
+                "name":"Red Line",
+                "x":940.0,
+                "y":510.0
+            },
+            "color":{
+                "red":1.0,
+                "green":0.4000000059604645,
+                "blue":0.4000000059604645,
+                "alpha":1.0
+            },
+            "station_names":[
+                "Newark",
+                "Harrison",
+                "Journal Square",
+                "Grove Street",
+                "Exchange Place",
+                "World Trade Center"
+            ]
+        },
+        {
+            "start_name":{
+                "name":"Yellow Line",
+                "x":270.0,
+                "y":450.0
+            },
+            "end_name":{
+                "name":"Yellow Line",
+                "x":838.0,
+                "y":22.0
+            },
+            "color":{
+                "red":1.0,
+                "green":0.800000011920929,
+                "blue":0.4000000059604645,
+                "alpha":1.0
+            },
+            "station_names":[
+                "Journal Square",
+                "Grove Street",
+                "New Port",
+                "ChristopherStreet",
+                "9th Street",
+                "23th Street",
+                "14th Street",
+                "33th Street"
+            ]
+        },
+        {
+            "start_name":{
+                "name":"Green Line",
+                "x":420.0,
+                "y":40.0
+            },
+            "end_name":{
+                "name":"Green Line",
+                "x":940.0,
+                "y":470.0
+            },
+            "color":{
+                "red":0.4000000059604645,
+                "green":0.6000000238418579,
+                "blue":0.4000000059604645,
+                "alpha":1.0
+            },
+            "station_names":[
+                "Hoboken",
+                "New Port",
+                "Exchange Place",
+                "World Trade Center"
+            ]
+        },
+        {
+            "start_name":{
+                "name":"Blue Line",
+                "x":420.0,
+                "y":70.0
+            },
+            "end_name":{
+                "name":"Blue Line",
+                "x":918.0,
+                "y":18.0
+            },
+            "color":{
+                "red":0.501960813999176,
+                "green":0.6000000238418579,
+                "blue":1.0,
+                "alpha":1.0
+            },
+            "station_names":[
+                "Hoboken",
+                "ChristopherStreet",
+                "9th Street",
+                "23th Street",
+                "14th Street",
+                "33th Street"
+            ]
+        }
+    ],
+    "stations":[
+        {
+            "name":"Harrison",
+            "x":190.0,
+            "y":489.0
+        },
+        {
+            "name":"Journal Square",
+            "x":270.0,
+            "y":490.0
+        },
+        {
+            "name":"Grove Street",
+            "x":420.0,
+            "y":490.0
+        },
+        {
+            "name":"Exchange Place",
+            "x":550.0,
+            "y":490.0
+        },
+        {
+            "name":"World Trade Center",
+            "x":940.0,
+            "y":490.0
+        },
+        {
+            "name":"New Port",
+            "x":420.0,
+            "y":380.0
+        },
+        {
+            "name":"Hoboken",
+            "x":420.0,
+            "y":120.0
+        },
+        {
+            "name":"ChristopherStreet",
+            "x":760.0,
+            "y":240.0
+        },
+        {
+            "name":"9th Street",
+            "x":920.0,
+            "y":240.0
+        },
+        {
+            "name":"14th Street",
+            "x":920.0,
+            "y":110.0
+        },
+        {
+            "name":"23th Street",
+            "x":920.0,
+            "y":170.0
+        },
+        {
+            "name":"33th Street",
+            "x":920.0,
+            "y":60.0
+        },
+        {
+            "name":"Newark",
+            "x":100.0,
+            "y":490.0
+        }
+    ]
+}
